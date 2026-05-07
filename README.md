@@ -33,8 +33,9 @@
 Since this workflow runs on **your account**, you need a session string:
 1. Open the file `stringsession.py` in this repo.
 2. Replace the `API_ID` and `API_HASH` with your own values.
-3. Run the script: `python stringsession.py`
-4. Log in as prompted. The script will print a long string of characters. **Copy this string.**
+3. Install the required library: `pip install telethon`
+4. Run the script: `python stringsession.py`
+5. Log in as prompted. The script will print a long string of characters. **Copy this string.**
 
 ### 4. Set up GitHub Secrets
 Go to your repo **Settings** > **Secrets and variables** > **Actions** and add these three **Repository secrets**:
