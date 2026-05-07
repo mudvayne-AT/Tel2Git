@@ -1,7 +1,7 @@
 <div align="center">
 
 # Telegram Downloader
-**Huge thanks to [nscl5/sandbox](https://github.com/nscl5/sandbox) for doing the heavy lifting on the core logic!**
+**Huge thanks to [nscl5/sandbox](https://github.com/nscl5/sandbox) for doing the heavy lifting**
 
 ### 🔗 **[Click here to see your Download Links](./Links.md)**
 
