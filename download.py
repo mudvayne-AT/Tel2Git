@@ -53,7 +53,7 @@ async def main():
         message = await client.get_messages(channel, ids=msg_id)
 
         if message and message.media:
-            print(f"Media found! Downloading to {download_dir}...")
+            print(f"Media found! Downloading...")
             # MODIFIED: Added file=download_dir to target the folder
             path = await message.download_media(file=download_dir)
             print(f"--- DONE: Saved to {path} ---")
