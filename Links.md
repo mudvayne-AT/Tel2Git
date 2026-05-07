@@ -2,6 +2,10 @@
 > Processed via GitHub Actions.<br><br/>
 
 
+### 📅 2026-05-07 20:00 IR
+- 📥 [WhiteDNS-Beta6-arm64-v8a.apk](https://github.com/mudvayne-AT/Tel2Git/raw/main/dl/WhiteDNS-Beta6-arm64-v8a.apk) `22.2MB`
+
+
 ### 📅 2026-05-07 19:16 IR
 - 🗜️ [mhr-phone.mp4.z01](https://github.com/mudvayne-AT/Tel2Git/raw/main/dl/mhr-phone.mp4.z01) `95.0MB`
 
