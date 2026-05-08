@@ -10,7 +10,7 @@
 ---
 
 ## 🚀 Features
-* **Bypass Restrictions:** Download from channels/groups even if "Forwarding/Saving" is restricted by the owner.
+* **Bypass Restrictions:** Download from channels/groups even if forwarding/saving is restricted by the owner.
 * **Smart Split:** Automatically split large videos/audios into playable segments (MP4, MKV, MP3, etc.) instead of boring ZIP files.
 * **Large File Support:** Uses ZIP splitting for non-media files or if you prefer a password-protected archive.
 * **Direct Links:** Get clean, direct GitHub raw links to your files once processed.
@@ -31,7 +31,7 @@
 
 ### 3. Generate your Session String
 Since this workflow runs on **your account**, you need a session string:
-1. Open the file `stringsession.py` in this repo.
+1. Download and open the file `stringsession.py` from this repo.
 2. Replace the `API_ID` and `API_HASH` with your own values.
 3. Install the required library: `pip install telethon`
 4. Run the script: `python stringsession.py`
@@ -58,7 +58,7 @@ The script accepts links in these formats:
 * **Public:** `https://t.me/username/123`
 * **Private:** `https://t.me/c/1234567/123`
 
-**Tip:** If you want to download from a private chat, bot, or your "Saved Messages," simply forward the message to a private channel/group you created and use that message link!
+**Tip:** If you want to download from a private chat, bot, or your Saved Messages, simply forward the message to a private channel/group you created and use that message link!
 
 ### 2. Run the Workflow
 1. Go to the **Actions** tab in your GitHub repo.
