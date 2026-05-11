@@ -30,6 +30,12 @@ jobs:
     steps:
       - name: Checkout code
         uses: actions/checkout@v4
+        with:
+          fetch-depth: 1
+          sparse-checkout-cone-mode: false
+          sparse-checkout: |
+            /*
+            !/dl/
 
       - name: Set up Python
         uses: actions/setup-python@v4
