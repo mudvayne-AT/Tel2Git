@@ -151,7 +151,7 @@ jobs:
       - name: Commit and Push
         run: |
           git config user.name "GitHub Action Bot"
-          git config user.email "bot@users.noreply.github.com"
-          git add dl/ Links.md
+          git config user.email "bot@://github.com"
+          git add --sparse dl/ Links.md  # Added --sparse here
           git commit -m "Add media (Mode: ${{ github.event.inputs.split_mode }}) [skip ci]" || echo "No changes"
           git push
