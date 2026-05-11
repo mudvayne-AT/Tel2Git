@@ -2,6 +2,10 @@
 > Processed via GitHub Actions.<br><br/>
 
 
+### 📅 2026-05-11 23:20 IR
+- 📥 [WhiteDNS-1.1.0-universal-1778467437126.apk](https://github.com/mudvayne-AT/Tel2Git/raw/main/dl/WhiteDNS-1.1.0-universal-1778467437126.apk) `16.3MB`
+
+
 ### 📅 2026-05-07 20:00 IR
 - 📥 [WhiteDNS-Beta6-arm64-v8a.apk](https://github.com/mudvayne-AT/Tel2Git/raw/main/dl/WhiteDNS-Beta6-arm64-v8a.apk) `22.2MB`
 
